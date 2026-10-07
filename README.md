@@ -1,5 +1,7 @@
 # arXiv Digest — Personalized Paper Ranker
 
+© 2026 Alejandro D. Somoza — Licensed under CC BY-NC-SA 4.0. Commercial licensing available on request.
+
 A self-hosted Flask application that fetches fresh arXiv preprints and ranks them against your research profile using a hybrid TF-IDF + keyword + LLM scoring architecture. Designed for researchers who need to stay on top of their field without drowning in hundreds of daily submissions.
 
 [arXivDigest Downloadable HTML Example](https://htmlpreview.github.io/?https://github.com/cacosomoza/arXivDigest/blob/master/example_arXivDigest-2026-09-25.html)
